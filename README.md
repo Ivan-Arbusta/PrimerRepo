@@ -11,3 +11,9 @@ Cree un fichero 1.txt (touch 1.txt) despues cree una rama (git branch v0.2) lueg
 
 ## Hacer un merge
 Cambie a la rama principal (git checkout main) y despues hice el merge (git merge) luego en el conflicto del merge se me abrio un editor para solucionar el conflicto y elegir la versión que queria conservar
+
+# Borrar una rama
+Borre la rama (git branch -D v0.2) 
+
+# Grafico de cambios
+![alt text](image.png)
